@@ -16,6 +16,7 @@ sistem_ta
 5. **Penilaian dan Revisi Tugas Akhir**: Penilaian dari panel penguji dan verifikasi revisi.
 6. **Penyimpanan Data**: Penyimpanan riwayat data Tugas Akhir untuk setiap mahasiswa.
 
+
 ## Teknologi
 - **Backend**: PHP Native
 - **Database**: MySQL
